@@ -1,0 +1,35 @@
+[
+     {
+          "identificador": "003",
+          "origenx": 52,
+          "origeny": 10,
+          "destinox": 49,
+          "destinoy": 88,
+          "velocidad": "5 m/s",
+          "red": 255,
+          "green": 255,
+          "blue": 199
+     },
+     {
+          "identificador": "001",
+          "origenx": 25,
+          "origeny": 52,
+          "destinox": 69,
+          "destinoy": 78,
+          "velocidad": "12 m/s",
+          "red": 130,
+          "green": 245,
+          "blue": 89
+     },
+     {
+          "identificador": "002",
+          "origenx": 78,
+          "origeny": 115,
+          "destinox": 12,
+          "destinoy": 45,
+          "velocidad": "22 m/s",
+          "red": 196,
+          "green": 77,
+          "blue": 35
+     }
+]
